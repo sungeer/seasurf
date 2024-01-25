@@ -1,2 +1,2 @@
-# flask-csrf
-不使用session的csrf验证，主要用于分布式
+# seasurf
+不基于session方式的csrf验证，主要用于分布式
